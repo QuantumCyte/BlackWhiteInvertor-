@@ -7,4 +7,5 @@ How to use:
 After putting code on local machine, run "BlackWhiteInvertorAPPLICATION.py"
 A tkinter pop up will open. In order from left to right, choose printfile to be inverted, click save to and choose where to save the new inverted printfile, press convert. 
 
-- Deepa 
+Thanks, 
+Deepa 
